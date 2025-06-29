@@ -1,0 +1,7 @@
+C:\projects\Tetriz\Tetriz\obj\Debug\Tetriz.csproj.AssemblyReference.cache
+C:\projects\Tetriz\Tetriz\obj\Debug\Tetriz.csproj.CoreCompileInputs.cache
+C:\projects\Tetriz\Tetriz\bin\Debug\Tetriz.exe.config
+C:\projects\Tetriz\Tetriz\bin\Debug\Tetriz.exe
+C:\projects\Tetriz\Tetriz\bin\Debug\Tetriz.pdb
+C:\projects\Tetriz\Tetriz\obj\Debug\Tetriz.exe
+C:\projects\Tetriz\Tetriz\obj\Debug\Tetriz.pdb
